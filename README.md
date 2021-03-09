@@ -1,4 +1,4 @@
-# Project Name
+# Mixed Messages
 > Here goes your awesome project description!
 
 ## Table of contents
