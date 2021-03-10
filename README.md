@@ -22,10 +22,16 @@ Everybody needs some inspiration in the morning
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
+```
+git clone 
+```
 
 ## Code Examples
 To generate your message, simply run the script:
-`node .\messages.js `
+
+```
+node .\messages.js
+```
 
 ## Features
 List of features ready and TODOs for future development
