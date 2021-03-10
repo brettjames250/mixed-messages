@@ -42,5 +42,3 @@ Project is: _in progress_
 ## Inspiration
 Project inspired by Code Academy 'Mixed Message' project
 
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
