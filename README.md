@@ -15,7 +15,7 @@
 Everybody needs some inspiration in the morning
 
 ## Screenshots
-![Example message](./img/code_output.png)
+![Example message](/img/code_output.PNG)
 
 ## Technologies
 * Javascript - version 1.0
