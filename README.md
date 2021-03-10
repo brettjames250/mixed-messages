@@ -18,7 +18,8 @@ Everybody needs some inspiration in the morning
 ![Example message](/img/code_output.PNG)
 
 ## Technologies
-* Javascript - version 1.0
+* Javascript
+* Node
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
